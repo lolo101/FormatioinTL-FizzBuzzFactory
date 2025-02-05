@@ -1,0 +1,2 @@
+public class FizzBuzzIter1 {
+}
